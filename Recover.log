@@ -1,0 +1,4 @@
+﻿Timestamp	Filename	Error	Message
+2022-03-31 18:38:01.461 +1100	jsDev.fmp12	0	*** Started consistency check of improperly closed file, total of 90 block(s) to check
+2022-03-31 18:38:01.462 +1100	jsDev.fmp12	0	Reset maximum block sequence number to 898868
+2022-03-31 18:38:01.462 +1100	jsDev.fmp12	0	*** Completed consistency check, checked 90 block(s)
